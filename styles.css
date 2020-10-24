@@ -1,0 +1,182 @@
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  color: black;
+  margin: 0 auto;
+  width: 80%;
+  font-family: "Work Sans", sans-serif;
+  padding-bottom: 40px;
+}
+
+h1,
+h2 {
+  font-weight: 400;
+}
+
+/* header  */
+
+header {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Colours Section */
+
+.colours {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 30px;
+}
+
+.colours h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.box {
+  padding: 30px;
+  margin: 10px;
+  text-align: center;
+  color: white;
+}
+
+.colour-one {
+  background-color: #8c357e;
+}
+
+.colour-two {
+  background-color: #16288c;
+}
+
+.colour-three {
+  background-color: #6f04d9;
+}
+
+/* Fonts Section */
+
+.font {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.font h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.font h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.font p {
+  line-height: 2.4rem;
+}
+
+.font .font-one {
+  font-family: "Merriweather", serif;
+}
+
+.font .font-two {
+  font-family: "Work Sans", sans-serif;
+}
+
+/* Text Section */
+
+.text {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.text h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.text h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.text li {
+  line-height: 2.4rem;
+  padding-left: 10px;
+}
+
+.text-one {
+  font-size: 26px;
+}
+
+.text-two {
+  font-size: 18px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.text-three {
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* Buttons Section */
+
+.button {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.button h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.button h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.btn-norm {
+  background-color: #8c357e;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-hover {
+  background-color: #6f04d9;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.footer {
+  text-align: center;
+}

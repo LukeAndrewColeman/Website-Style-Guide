@@ -1,3 +1,5 @@
+/* Global Styles */
+
 * {
   margin: 0em;
   padding: 0em;
@@ -18,7 +20,7 @@ h2 {
   font-weight: 400;
 }
 
-/* header  */
+/* header Section  */
 
 header {
   margin-top: 30px;
@@ -176,6 +178,8 @@ header {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+/* Footer Section */
 
 .footer {
   text-align: center;
